@@ -1,0 +1,34 @@
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 500;
+    line-height: 1.2;
+    color: #310735;
+}
+
+h2.block-title {
+    margin-top: 70px;
+    
+}
+
+
+
+.texto-formato{
+	text-align: justify;
+    font-size: 14px;
+    line-height: 16px;
+    color: #000;
+}
+
+img.img-responsive {
+    margin: 0 auto;
+}
+
+.item-list > ul {
+    list-style-type: none;
+}
+
+
+.item-list > ul > li{
+	min-height: 150px;
+	margin-top: 30px;
+}
