@@ -58,6 +58,7 @@
 <head>
   <link rel="profile" href="<?php print $grddl_profile; ?>" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <?php print $head; ?>
   <title><?php print $head_title; ?></title>
   <?php print $styles; ?>
